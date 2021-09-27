@@ -18,9 +18,7 @@ public class Ejercicio1 {
         }
 <<<<<<< HEAD
         System.out.printf("El impuesto final es: %.2f \n", impuesto);
-        System.out.printf("Esto es una prueba con Inteligent");
-=======
-        System.out.printf("El impuesto es: %.2f \n", impuesto);
->>>>>>> 60671db249f98912a6d960db4633d7a06a82a3d1
+        System.out.println("Esto es una prueba con Inteligent");
+
     }
 }
