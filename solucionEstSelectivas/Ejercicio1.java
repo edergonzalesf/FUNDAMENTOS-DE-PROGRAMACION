@@ -16,9 +16,6 @@ public class Ejercicio1 {
         }else {
             impuesto = neto*0.21;
         }
-<<<<<<< HEAD
-        System.out.printf("El impuesto final es: %.2f \n", impuesto);
-        System.out.println("Esto es una prueba con Inteligent");
-
+        System.out.printf("El impuesto es: %.2f \n", impuesto);
     }
 }
