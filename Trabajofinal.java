@@ -36,10 +36,7 @@ public class Trabajofinal {
         System.out.printf("IGV: %.2f\n",montoIGV);
         double montoTOTAL = montoAgua + montoAlcantarillado + montoIGV;
         System.out.printf("MontoTOTAL: %.2f",montoTOTAL);
-<<<<<<< HEAD
-=======
-        System.out.println("Facturación para Suministros con Fuente Propia-SEDAPAL");
->>>>>>> a94ea64584bf4796d6ab484144a0349030d72670
+
     }
 
 
